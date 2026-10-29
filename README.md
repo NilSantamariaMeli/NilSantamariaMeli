@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/15/b0/0d/15b00d2183bc9c57882d73da75c29342.gif">
+</p>
 
-<!--
-**NilSantamariaMeli/NilSantamariaMeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #  <center>Hi! I'm Meli!</center>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/36/a0/a4/36a0a4566f0fe0e82c9b9766ee2a3e7b.jpg" width="400">
+</p>
+
+ <center></center>
+
+## Nil Santamaria Colom
+
+### Student developer · Barcelona ENTI
+
+### 19y
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/843058974119297064?bg=BEEDBE&borderRadius=10px&theme=light&showDisplayName=true)](https://discord.com/users/843058974119297064)
+
+# Programing
+
+### C++ 
+
+<img src="https://i.pinimg.com/736x/07/3f/36/073f367b7656577eb7e0fd2c353f79a9.jpg" width="400">
