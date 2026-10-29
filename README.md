@@ -14,12 +14,6 @@
 
  <center></center>
 
-
- 
-
-## Nil Santamaria Colom
-###  📚 19 y/o · Learning, coding & exploring new things. 
-### 
 #
 
 <p align="center">
@@ -32,7 +26,8 @@
 </p>
 
  # ୨୧・About me
-
+## Nil Santamaria Colom
+###  📚 19 y/o · Learning, coding & exploring new things. 
 
 ```cpp
 #include <iostream>
