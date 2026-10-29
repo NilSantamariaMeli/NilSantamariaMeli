@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/15/b0/0d/15b00d2183bc9c57882d73da75c29342.gif" width="100%" alt="Welcome GIF">
+  <img src="./images/welcome.gif" width="100%" alt="Welcome GIF">
 </p>
 #
+
 
 
  #  <center>Hi! I'm Meli! 👾</center>
