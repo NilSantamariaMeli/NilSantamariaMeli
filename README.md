@@ -39,7 +39,7 @@ int main() {
     string language = "C++";
 
     cout << "Welcome to my GitHub!" << endl;
-    cout << "Bombarden ENTI: " << language << endl;
+    cout << "Bombarden ENTI: " << boom << endl;
 
     return 0;
 }
