@@ -61,6 +61,12 @@ int main() {
 
 <img src="https://i.pinimg.com/1200x/4c/46/e9/4c46e9ef2327ec7084c5a888d46229f1.jpg" width="400">
 
+### Toda la saga Resident Evil 
+
+<img src="https://i.pinimg.com/1200x/4f/34/69/4f3469776caf84fe79b95233ff3f7df8.jpg" width="400">
+
+
+
 
 # ♡・Contact Me
 
