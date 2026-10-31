@@ -1,8 +1,11 @@
+
 <p align="center">
-  <img src="./img/welcome.gif" width="100%" alt="Welcome GIF">
+  <img src="https://i.pinimg.com/originals/15/b0/0d/15b00d2183bc9c57882d73da75c29342.gif">
 </p>
 
 #
+
+<!-- Presentacion -->
 
 
 
@@ -14,6 +17,13 @@
 
  <center></center>
 
+
+
+ 
+
+## Nil Santamaria Colom
+###  📚 19 y/o · Learning, coding & exploring new things. 
+### 
 #
 
 <p align="center">
@@ -25,9 +35,11 @@
 <img src="https://img.shields.io/badge/DAM--VIOD-BEEDBE?style=for-the-badge&logo=github&logoColor=white" alt="DAM-VIOD">
 </p>
 
+<!-- Sobre mi -->
+
+
  # ୨୧・About me
-## Nil Santamaria Colom
-###  📚 19 y/o · Learning, coding & exploring new things. 
+
 
 ```cpp
 #include <iostream>
@@ -39,12 +51,13 @@ int main() {
     string language = "C++";
 
     cout << "Welcome to my GitHub!" << endl;
-    cout << "Bombarden ENTI: " << boom << endl;
+    cout << "Bombarden ENTI: " << language << endl;
 
     return 0;
 }
 ```
 
+<!-- Programacion -->
 
 
 # ⌘・Programming
@@ -53,21 +66,28 @@ int main() {
 <img src="https://i.pinimg.com/736x/07/3f/36/073f367b7656577eb7e0fd2c353f79a9.jpg" width="400">
 
 
+<!-- Musica -->
+
+# ♡・Music
+
+### Mis gustos musicales!
+
+<p align="center">
+<img src="https://i.pinimg.com/736x/d1/bb/d7/d1bbd71a423b412ac51f841713e39a76.jpg" width="400">
+</p>
 
 
-# ⌘・Fav Games
+### ♡ Rock and Roll 
 
-### Cyberpunk 
-
-<img src="https://i.pinimg.com/1200x/4c/46/e9/4c46e9ef2327ec7084c5a888d46229f1.jpg" width="400">
-
-### Toda la saga Resident Evil 
-
-<img src="https://i.pinimg.com/1200x/4f/34/69/4f3469776caf84fe79b95233ff3f7df8.jpg" width="400">
-
+- Nirvana
+- Saurom
+- Mago de Oz 
+- Malditop Records
+- Kaotiko 
+- AC/DC
 
 
-
+<!-- Contacto -->
 # ♡・Contact Me
 
 ### Si necesitas contactar conmigo no dudes en hacerlo a traves de mi Discord o Mail!
