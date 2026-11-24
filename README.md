@@ -82,7 +82,7 @@ int main() {
 - Nirvana
 - Saurom
 - Mago de Oz 
-- Malditop Records
+- Maldito Records
 - Kaotiko 
 - AC/DC
 
